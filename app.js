@@ -40,7 +40,8 @@ if (annyang){
     'relay2': relayTwo,
     'two': relayTwo,
     'poop':relayOne,
-    'play with Freddy' : relayOne,//////////////this is the new one for freddy
+    'play with Freddy' : relayOne,
+    'turn on the lightning orb' : relayOne,
     '2': relayTwo
   };
   
